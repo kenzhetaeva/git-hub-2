@@ -1,6 +1,12 @@
 
-# Created by https://www.gitignore.io/api/windows
-# Edit at https://www.gitignore.io/?templates=windows
+# Created by https://www.gitignore.io/api/jekyll,windows
+# Edit at https://www.gitignore.io/?templates=jekyll,windows
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -28,4 +34,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/windows
+# End of https://www.gitignore.io/api/jekyll,windows
